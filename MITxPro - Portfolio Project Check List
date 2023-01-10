@@ -1,0 +1,116 @@
+# MIT xPro Portfolio Project
+
+### Website Requirements
+Your website should include the following:
+
+### 1.) Video Introduction
+
+- [x] An introduction to yourself, including an overview of your work and skills
+- [x] Uploaded on to YouTube
+- [x] Embedded on the homepage of your site
+- [x] 2 minutes or less
+
+### 2. Bio, which should include:
+
+- [x] Minimum of 50 words
+- [x] Photo
+- [x] GitHub username
+- [x] LinkedIn link
+- [x] Best way to contact you
+
+### 3. Pages and Navigation, so your website includes:
+
+- [x] Landing page, which contains your video introduction and bio
+- [x] Projects page, which includes information on your coding projects
+- [x] Navigation bar, so users can navigate between the two pages
+
+### 4. Styles
+
+You should style your website including:
+
+- [x] Font
+- [x] Color 
+- [x] Navigation
+- [x] Image
+- [x] Styled links 
+- [x] Use of grid layout, which will be assessed by looking at the link to your CSS file
+
+### 5. Projects Page
+
+Should include the following for two or more projects. These links should go directly to the repositories you will submit for grading in the GitHub Repository Assignment Submission. 
+
+- [x] Project titles for the PacMen Exercise, Eye Exercise, and Real Time Bus Tracking projects
+- [x] Links to GitHub repositories 
+- [x] Project descriptions (1 - 5 sentences per project)
+
+### 6. Extra Credit: Bootstrap
+
+If you use Bootstrap for styling, you will receive extra credit. Upload a direct link to the file where you imported Bootstrap for this project to receive credit. 
+
+---
+
+## GitHub Repository Requirements
+
+You will also be assessed on the GitHub repositories for three coding projects: PacMen Exercise, Eye Exercise, and Real Time Bus Tracker. 
+
+The **README** for each repository should contain: 
+
+1. - [x] Project Title
+
+2. - [x] Description of Project (minimum of 20 words)
+
+**How to Run**: This is information someone would use to get started running your project on their machine. 
+
+1. - [x] Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
+2. - [x] License information: This should include information about the MIT license. 
+
+The **file structure** for each repository should align to the following: 
+
+1. **PacMen Exercise**
+
+- [x] images/pacman1
+- [x] images/pacman2
+- [x] images/pacman3
+- [x] images/pacman4
+- [x] Index.html
+- [x] pacmen.js
+
+2. **Eye Exercise**
+
+- [x] index.html
+
+- [x] eyes.js
+
+- [x] styles.css
+
+3. **Real Time Bus Tracker**
+
+- [x] Index.html
+
+- [x] 
+    mapanimation.js
+
+- [x] 
+    styles.css
+
+
+
+---
+
+## Portfolio Rubric
+
+| Criteria                                                     | Ratings                                                      | Pts   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
+| This criterion is linked to a Learning OutcomeVideo IntroductionIntroduce yourself Overview of work and skills May include fun facts Uploaded to Youtube Embedded in website 2 minutes or less | **3 pts - Excellent** <br />Introduces yourself Includes overview of your work and skills Uploaded to Youtube Embedded in website 2 minutes or less<br />**2 pts - Proficient**<br />Introduces yourself Uploaded to Youtube Embedded in website | 3 pts |
+| Website Bio Score                                            | **2 pts - Excellent** <br />Bio includes: Minimum 50 words Photo GitHub username Linkedin link Contact Information (Email address or best way to contact otherwise)<br />**1 pts - Proficient** <br />Bio includes: Minimum 50 words GitHub username Linkedin Link | 2 pts |
+| Pages & Navigation Score<br />Pages & Navigation <br />Landing page <br />Projects page <br />Navigation Bar | **4 pts - Excellent**<br />Website includes: Landing page Projects page Navigation Bar<br />**2 pts - Proficient** <br />Website includes: Landing page Projects page | 4 pts |
+| Styles Score                                                 | **4 pts - Excellent**<br />Styling includes: Font Color Image (1 or more) Styled links: links should not just be blue and underlined Navigation Makes use of grid layout (look at code for this, direct link to CSS file is uploaded)<br />**2 pts - Proficient** <br />Styling includes: Font Color Image (1 or more) Styled links: links should not just be blue and underlined Does not have default styling for headers, links, text, backgrounds, etc. | 4 pts |
+| Projects Scoring                                             | **4 pts - Excellent**<br />Website includes the following information for two or more projects: Project titles Links to GitHub repositories Project descriptions (1 - 5 sentences per project)<br />**2 pts - Proficient**<br />Website includes the following information for two or more projects: Project titles Links to GitHub repositories | 4 pts |
+| Bootstrap (extra credit)<br />Upload code file where bootstrap is imported for the GitHub pages page (direct link to github where the import is) | **5 pts - Proficient**<br />Uses bootstrap, with evidence of import to GitHub pages page | 5 pts |
+| PacMen Exercise: README                                      | **4 pts - Excellent**<br />README file includes: Title Description of project (minimum 20 words) How to Run Roadmap of future improvements License information<br />**2 pts - Proficient**<br />README file includes: Title Description of project (minimum 20 words) How to Run | 4 pts |
+| PacMen Exercise File Structure                               | **4 pts - Excellent**<br />Includes appropriate file structure: images/pacman1 images/pacman2 images/pacman3 images/pacman4 Index.html pacmen.js<br />**2 pts - Proficient**<br />Includes the following file structure: pacman1 pacman2 pacman3 pacman4 Index.html pacmen.js | 4 pts |
+| Eye Exercise Repository README                               | **4 pts - Excellent**<br />README file includes: Title Description of project (minimum 20 words) How to Run Roadmap of future improvements License information<br />**2 pts - Proficient**<br />README file includes: Title Description of project (minimum 20 words) How to Run | 4 pts |
+| Eye Exercise Repository File Structure                       | **4 pts - Excellent**<br />Includes appropriate file structure: Index.html Eyes.js styles.css<br />**2 pts - Proficient**<br />Includes two of the three required files: Index.html Eyes.js styles.css | 4 pts |
+| Real Time Bus Tracking Repository README                     | **4 pts - Excellent**<br />README file includes: Title Description of project (minimum 20 words) How to Run Roadmap of future improvements License information<br />**2 pts - Proficient**<br />README file includes: Title Description of project (minimum 20 words) How to Run | 4 pts |
+| Real Time Bus Tracker Repository File Structure              | **4 pts - Excellent**<br />Includes appropriate file structure: Index.html mapanimation.js styles.css<br />**2 pts - Proficient**<br />Includes two of the three required files: Index.html mapanimation.js styles.css | 4 pts |
+| Total Points: 46                                             |                                                              |       |

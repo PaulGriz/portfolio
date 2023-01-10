@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5b38e495.css",
+    "main.js": "/portfolio/static/js/main.f39e5803.js",
+    "static/media/busMapExercise.jpg": "/portfolio/static/media/busMapExercise.2553928ffa994f7a77c4.jpg",
+    "static/media/roboNdPerceptionProject.jpg": "/portfolio/static/media/roboNdPerceptionProject.2e09d3f4fbd61f5a7386.jpg",
+    "static/media/roboNdFollowMe.jpg": "/portfolio/static/media/roboNdFollowMe.c0cee07db6e73981ac7a.jpg",
+    "static/media/graphql.png": "/portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/roboNdPickPlace.jpg": "/portfolio/static/media/roboNdPickPlace.f5a1dccbbe9bcb5009ad.jpg",
+    "static/media/heroimage2.jpeg": "/portfolio/static/media/heroimage2.2908401623135c37c84a.jpeg",
+    "static/media/heroImage.jpeg": "/portfolio/static/media/heroImage.6f83892939103a9a0962.jpeg",
+    "static/media/ross.png": "/portfolio/static/media/ross.2778ba41a2c6c30ab131.png",
+    "static/media/PacManExercise.jpg": "/portfolio/static/media/PacManExercise.1f31e00f3dd24797c86c.jpg",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/eyesExercise.jpg": "/portfolio/static/media/eyesExercise.75729c8b80d80c4f36f3.jpg",
+    "static/media/nextjs.png": "/portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.5b38e495.css.map": "/portfolio/static/css/main.5b38e495.css.map",
+    "main.f39e5803.js.map": "/portfolio/static/js/main.f39e5803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b38e495.css",
+    "static/js/main.f39e5803.js"
+  ]
+}
