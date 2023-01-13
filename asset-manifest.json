@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5b38e495.css",
-    "main.js": "/portfolio/static/js/main.f39e5803.js",
+    "main.css": "/portfolio/static/css/main.aec703bc.css",
+    "main.js": "/portfolio/static/js/main.37b5eff9.js",
     "static/media/busMapExercise.jpg": "/portfolio/static/media/busMapExercise.2553928ffa994f7a77c4.jpg",
     "static/media/roboNdPerceptionProject.jpg": "/portfolio/static/media/roboNdPerceptionProject.2e09d3f4fbd61f5a7386.jpg",
     "static/media/roboNdFollowMe.jpg": "/portfolio/static/media/roboNdFollowMe.c0cee07db6e73981ac7a.jpg",
@@ -20,11 +20,11 @@
     "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
-    "main.5b38e495.css.map": "/portfolio/static/css/main.5b38e495.css.map",
-    "main.f39e5803.js.map": "/portfolio/static/js/main.f39e5803.js.map"
+    "main.aec703bc.css.map": "/portfolio/static/css/main.aec703bc.css.map",
+    "main.37b5eff9.js.map": "/portfolio/static/js/main.37b5eff9.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b38e495.css",
-    "static/js/main.f39e5803.js"
+    "static/css/main.aec703bc.css",
+    "static/js/main.37b5eff9.js"
   ]
 }
