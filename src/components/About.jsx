@@ -22,7 +22,7 @@ const About = () => {
         </p>
         <br />
         <p className="text-xl">
-          Another deep passion of mine is Artificial Intelligence. I've used AI to produce <a href="https://www.youtube.com/watch?v=-DoV1y9ZYLA" className="font-medium text-blue-600 dark:text-blue-500 hover:underline">high resolution 3D videos</a>, music, stock predictions, drone video perception projects, self driving models, and a few smart home assistant models. I'm very excited to merge my passion for the future of the web with my passion for AI!
+          Another deep passion of mine is Artificial Intelligence. I've used AI to produce <a href="https://www.youtube.com/watch?v=-DoV1y9ZYLA" className="font-medium text-blue-500 duration-300 hover:underline hover:text-blue-400">high resolution 3D videos</a>, music, stock predictions, drone video perception projects, self driving models, and a few smart home assistant models. I'm very excited to merge my passion for the future of the web with my passion for AI!
         </p>
       </div>
     </div>
