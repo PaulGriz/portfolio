@@ -1,7 +1,8 @@
 import React from "react";
+import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
+import { Tooltip } from "@material-tailwind/react";
 import HeroImage from "../assets/heroImage.jpeg";
 import HeroImage2 from "../assets/heroimage2.jpeg";
-import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 const Home = () => {
   return (
@@ -29,14 +30,29 @@ const Home = () => {
         <div className="flex items-center justify-center gap-4 lg:justify-start">
           <span className="text-sm font-semibold tracking-widest text-gray-400 uppercase sm:text-base">Contact</span>
           <span className="w-10 h-px bg-gray-200" />
-          <span className="text-gray-400">paulgrizdev@gmail.com</span>
+          <Tooltip content="Click to Copy">
+            <button>
+              <span
+                onClick={() => {
+                  navigator.clipboard.writeText("paulgrizdev@gmail.com");
+                }}
+                className="text-gray-400 hover:underline active:text-blue-300 hover:text-gray-100"
+              >
+                paulgrizdev@gmail.com
+              </span>
+            </button>
+          </Tooltip>
           <div className="flex gap-4">
-            <a href="https://github.com/PaulGriz" target="_blank" rel="noreferrer" className="text-gray-400 transition duration-100 hover:text-gray-200 active:text-gray-600">
-              <AiFillGithub size={28} />
-            </a>
-            <a href="https://linkedin.com/in/paul-griz" target="_blank" rel="noreferrer" className="text-gray-400 transition duration-100 hover:text-gray-200 active:text-gray-600">
-              <AiFillLinkedin size={28} />
-            </a>
+            <Tooltip content="Github">
+              <a href="https://github.com/PaulGriz" target="_blank" rel="noreferrer" className="text-gray-400 transition duration-100 hover:text-gray-100 active:text-gray-600">
+                <AiFillGithub size={28} />
+              </a>
+            </Tooltip>
+            <Tooltip content="LinkedIn">
+              <a href="https://linkedin.com/in/paul-griz" target="_blank" rel="noreferrer" className="text-gray-400 transition duration-100 hover:text-gray-100 active:text-gray-600">
+                <AiFillLinkedin size={28} />
+              </a>
+            </Tooltip>
           </div>
           {/* Contact - end */}
         </div>

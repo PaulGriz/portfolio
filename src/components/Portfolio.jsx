@@ -6,7 +6,6 @@ import roboNdFollowMe from "../assets/portfolio/roboNdFollowMe.jpg";
 import roboNdPerceptionProject from "../assets/portfolio/roboNdPerceptionProject.jpg";
 import roboNdPickPlace from "../assets/portfolio/roboNdPickPlace.jpg";
 
-
 const Portfolio = () => {
   const portfolios = [
     {
@@ -62,7 +61,9 @@ const Portfolio = () => {
               <div className="flex flex-col items-center justify-center">
                 <p className="pt-2 text-center">{text}</p>
                 <a href={link} target="_blank" rel="noreferrer">
-                  <button className="flex items-center px-3 py-1 mx-auto my-3 text-white duration-300 rounded-md bg-gradient-to-b from-cyan-600 to-blue-600 hover:scale-110 hover:text-yellow-200">Code</button>
+                  <button className="flex items-center px-3 py-1 mx-auto my-3 text-white duration-300 rounded-md bg-gradient-to-b from-cyan-600 to-blue-600 hover:scale-110 hover:text-yellow-200">
+                    Code
+                  </button>
                 </a>
               </div>
             </div>
