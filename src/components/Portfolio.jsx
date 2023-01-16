@@ -50,7 +50,7 @@ const Portfolio = () => {
   return (
     <div name="portfolio" className="w-full px-4 py-3 text-white bg-gray-900">
       <div className="flex flex-col justify-center w-full h-full max-w-screen-lg p-1 mx-auto">
-        <div className="pb-8">
+        <div className="pb-6">
           <p className="inline text-4xl border-b-4 border-gray-500">Portfolio</p>
           <p className="pt-6">Check out some of my recent work:</p>
         </div>

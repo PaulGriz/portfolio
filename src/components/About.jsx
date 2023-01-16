@@ -12,17 +12,17 @@ const About = () => {
         <br />
         <YoutubeEmbed embedId="fu9N2hZ9XCc" />
 
-        <p className="mt-5 text-xl">
+        <p className="mt-5 text-l">
           I've been programming for 5 years and worked as an account for 3 years. I graduated from the University of South Carolina - Beaufort with a degree in Accounting. However, I studied for three
           years as a computer engineer. I switched to accounting my senior year for an exceptional job opportunity. After these three years, I've realized that my true passion is programming.
         </p>
         <br />
-        <p className="text-xl">
+        <p className="text-l">
           For me, there's no better feeling than solving a difficult problem. My entire childhood was spent playing chess, strategy games, and puzzle books. Now, I'm a father of great kids, and I love
           solving puzzles with them.
         </p>
         <br />
-        <p className="text-xl">
+        <p className="text-l">
           Another deep passion of mine is Artificial Intelligence. I've used AI to produce{" "}
           <a href="https://www.youtube.com/watch?v=-DoV1y9ZYLA" className="font-medium text-blue-500 duration-300 hover:underline hover:text-blue-400">
             high resolution 3D videos

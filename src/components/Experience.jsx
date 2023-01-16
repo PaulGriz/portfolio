@@ -75,7 +75,7 @@ const Experience = () => {
           <p className="pt-6">Technologies I'm currently working with:</p>
         </div>
 
-        <div className="grid w-full grid-cols-2 gap-8 px-12 py-8 text-center sm:grid-cols-3 sm:px-0">
+        <div className="grid w-full grid-cols-2 gap-8 px-12 pt-5 pb-8 text-center sm:grid-cols-3 sm:px-0">
           {technologiesList.map(({ id, src, title, style }) => (
             <div key={id} className={`rounded-lg py-2 shadow-md duration-500 hover:scale-105 ${style}`}>
               <img src={src} alt="" className="w-20 mx-auto" />
