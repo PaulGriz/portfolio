@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "react-bootstrap/Button";
 import pacmanExercise from "../assets/portfolio/PacManExercise.jpg";
 import eyesExercise from "../assets/portfolio/eyesExercise.jpg";
 import busMapExercise from "../assets/portfolio/busMapExercise.jpg";
@@ -61,9 +62,9 @@ const Portfolio = () => {
               <div className="flex flex-col items-center justify-center">
                 <p className="pt-2 text-center">{text}</p>
                 <a href={link} target="_blank" rel="noreferrer">
-                  <button className="flex items-center px-3 py-1 mx-auto my-3 text-white duration-300 rounded-md bg-gradient-to-b from-cyan-600 to-blue-600 hover:scale-110 hover:text-yellow-200">
+                  <Button className="flex items-center px-3 py-1 mx-auto my-3 text-white duration-300 rounded-md bg-gradient-to-b from-cyan-600 to-blue-600 hover:scale-110 hover:text-yellow-200">
                     Code
-                  </button>
+                  </Button>
                 </a>
               </div>
             </div>

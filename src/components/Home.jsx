@@ -31,16 +31,14 @@ const Home = () => {
           <span className="text-sm font-semibold tracking-widest text-gray-400 uppercase sm:text-base">Contact</span>
           <span className="w-10 h-px bg-gray-200" />
           <Tooltip content="Click to Copy">
-            <button>
               <span
                 onClick={() => {
                   navigator.clipboard.writeText("paulgrizdev@gmail.com");
                 }}
-                className="text-gray-400 hover:underline active:text-blue-300 hover:text-gray-100"
+                className="text-gray-400 cursor-pointer hover:underline active:text-blue-300 hover:text-gray-100"
               >
                 paulgrizdev@gmail.com
               </span>
-            </button>
           </Tooltip>
           <div className="flex gap-4">
             <Tooltip content="Github">
