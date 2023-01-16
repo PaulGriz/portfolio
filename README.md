@@ -2,7 +2,7 @@
 
 ### About
 
-**Link to Website**: https://paulgriz.github.io/portfolio/
+**Link to Website**: <a href="https://paulgriz.github.io/portfolio/" target="_blank">https://paulgriz.github.io/portfolio/</a>
 
 This is my submission for the first project of the MIT xPro program.
 
@@ -11,7 +11,7 @@ This is my submission for the first project of the MIT xPro program.
 - React: 18.2.0
 - Tailwind.css: 3.2.4
 - Github Pages: 4.0.0
-- GetForm: https://getform.io/
+- GetForm: <a href="https://getform.io/" target="_blank">https://getform.io/</a>
 
 ### How to Run
 
@@ -49,4 +49,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
