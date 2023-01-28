@@ -10,9 +10,11 @@ const About = () => {
           <p className="inline text-4xl border-b-4 border-gray-500">About</p>
         </div>
         <br />
-        <YoutubeEmbed embedId="fu9N2hZ9XCc" />
 
-        <p className="mt-5 text-l">
+        {/* // TODO: Refilm video */}
+        {/* <YoutubeEmbed embedId="" /> */}
+
+        <p className="text-l">
           I've been programming for 5 years and worked as an account for 3 years. I graduated from the University of South Carolina - Beaufort with a degree in Accounting. However, I studied for three
           years as a computer engineer. I switched to accounting my senior year for an exceptional job opportunity. After these three years, I've realized that my true passion is programming.
         </p>

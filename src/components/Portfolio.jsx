@@ -8,7 +8,7 @@ import roboNdPerceptionProject from "../assets/portfolio/roboNdPerceptionProject
 import roboNdPickPlace from "../assets/portfolio/roboNdPickPlace.jpg";
 
 const Portfolio = () => {
-  const portfolios = [
+  const projects = [
     {
       id: 1,
       src: pacmanExercise,
@@ -56,7 +56,7 @@ const Portfolio = () => {
         </div>
 
         <div className="grid gap-8 px-12 sm:grid-cols-2 sm:px-0 md:grid-cols-3">
-          {portfolios.map(({ id, src, link, text }) => (
+          {projects.map(({ id, src, link, text }) => (
             <div key={id} className="rounded-lg shadow-md shadow-gray-600">
               <img src={src} alt="" className="duration-200 rounded-md hover:scale-105" />
               <div className="flex flex-col items-center justify-center">
